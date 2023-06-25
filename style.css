@@ -1,0 +1,19 @@
+body {
+	margin: 0;
+	padding: 0;
+}
+
+.roof {
+	height: 300px;
+}
+
+.wrap {
+	width: 30%;
+	margin: 0 auto;
+	border: 2px solid greenyellow;
+}
+
+.btn {
+	height: 50px;
+	color: green;
+}
